@@ -1,1 +1,1 @@
-# verification-service
+Verification service for Spring-Mobile-App
